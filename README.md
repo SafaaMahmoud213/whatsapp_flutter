@@ -1,4 +1,4 @@
-# whatsapp_flutter
+# whats_app
 
 A new Flutter project.
 
